@@ -4,10 +4,13 @@
 </p>
 
 <h1 align="center">Hi, I'm Peter Adepoju 👋</h1>
-<p align="center"><b>@code4two</b></p>
 <p align="center"><b>Frontend Developer | Building responsive, user-friendly web apps</b></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=code4two&label=Profile%20Views&color=0e75b6&style=flat" alt="code4two" />
+</p>
+<p align="center">
+  [LinkedIn](https://www.linkedin.com/in/peter-mayowa-adepoju)
+  [Twitter / X](https://x.com/_iPetrock)
 </p>
 
 ---
@@ -45,13 +48,6 @@ I'm about to embark on my journey with **React**, eager to leverage it for even 
 ## 🚀 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code4two&layout=compact&theme=tokyonight&border_radius=12&langs_count=8)
----
-
-### 🌐 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/peter-mayowa-adepoju)
-- [Twitter / X](https://x.com/_iPetrock)
-
 ---
 
 ### 🎯 Interests
