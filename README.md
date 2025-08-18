@@ -9,8 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=code4two&label=Profile%20Views&color=0e75b6&style=flat" alt="code4two" />
 </p>
 <p align="center">
-  **[LinkedIn](https://www.linkedin.com/in/peter-mayowa-adepoju)**
-  **[Twitter / X](https://x.com/_iPetrock)**
+  <a href="https://www.linkedin.com/in/peter-mayowa-adepoju" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/_iPetrock" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
 
 ---
