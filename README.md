@@ -9,8 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=code4two&label=Profile%20Views&color=0e75b6&style=flat" alt="code4two" />
 </p>
 <p align="center">
-  [LinkedIn](https://www.linkedin.com/in/peter-mayowa-adepoju)
-  [Twitter / X](https://x.com/_iPetrock)
+  **[LinkedIn](https://www.linkedin.com/in/peter-mayowa-adepoju)**
+  **[Twitter / X](https://x.com/_iPetrock)**
 </p>
 
 ---
