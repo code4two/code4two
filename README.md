@@ -5,7 +5,10 @@
 
 <h1 align="center">Hi, I'm Peter Adepoju 👋</h1>
 <p align="center"><b>@code4two</b></p>
-<p align="center"><b>Frontend Developer | UI Craftsman | Responsive Web Enthusiast</b></p>
+<p align="center"><b>Frontend Developer | Building responsive, user-friendly web apps</b></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=code4two&label=Profile%20Views&color=0e75b6&style=flat" alt="code4two" />
+</p>
 
 ---
 
@@ -16,25 +19,32 @@ I'm a passionate frontend web developer with a knack for building clean, respons
 I'm about to embark on my journey with **React**, eager to leverage it for even more dynamic user experiences. My mission? To deliver top-notch, seamless interactions that delight users.
 
 ---
+### 🚀 Favorite Projects
 
-### 🛠️ Top Skills
+- **[Acme-website](https://acme-website-live.netlify.app)** – A clean, responsive web presence for businesses.
+- **[Portfolio website](https://peter-adepoju.netlify.app)** – Showcasing my journey, skills, and best work.
 
-- **Languages & Tools:**  
+---
+
+## 🛠️ Languages & Tools:
+
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) 
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=222) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=222)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=fff) 
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) 
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff) 
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
 
 ---
+## 🔥 Streak Stats
 
-### 🚀 Favorite Projects
+![GitHub Streak](https://streak-stats.demolab.com?user=code4two&theme=tokyonight&border_radius=12)
 
-- **[Acme-website](https://acme-website-live.netlify.app)** – A clean, responsive web presence for businesses.
-- **[Portfolio website](https://peter-adepoju.netlify.app)** – Showcasing my journey, skills, and best work.
+## 🚀 Most Used Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code4two&layout=compact&theme=tokyonight&border_radius=12&langs_count=8)
 ---
 
 ### 🌐 Connect With Me
