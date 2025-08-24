@@ -52,7 +52,7 @@ I'm about to embark on my journey with **React**, eager to leverage it for even 
 
 ## 🚀 Most Used Languages
 
-f
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code4two&layout=compact&theme=tokyonight&border_radius=12&langs_count=8)
 ---
 
 ### 🎯 Interests
