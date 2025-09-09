@@ -46,6 +46,11 @@ I'm about to embark on my journey with **React**, eager to leverage it for even 
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
 
 ---
+## 📊 Developer Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code4two&show_icons=true&theme=tokyonight&border_radius=12)
+
+---
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=code4two&theme=tokyonight&border_radius=12)
