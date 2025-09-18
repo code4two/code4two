@@ -5,9 +5,9 @@
 
 <h1 align="center">Hi, I'm Peter Adepoju 👋</h1>
 <p align="center"><b>Frontend Developer | Building responsive, user-friendly web apps</b></p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=code4two&label=Profile%20Views&color=0e75b6&style=flat" alt="code4two" />
-</p>
+</p> -->
 <p align="center">
   <a href="https://www.linkedin.com/in/peter-mayowa-adepoju" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
