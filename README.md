@@ -29,7 +29,7 @@ I'm about to embark on my journey with **React**, eager to leverage it for even 
 ### 🚀 Favorite Projects
 
 - **[Acme-website](https://acme-website-live.netlify.app)** – A clean, responsive web presence for businesses.
-- **[Browser Extension Manager](https://extension-project.netlify.app/)** – Focuses on building a responsive grid layout and managing extensions.
+- **[Browser Extension Manager](https://extension-manager-with-react.netlify.app/)** – Focuses on building a responsive grid layout and managing extensions.
 - **[Portfolio website](https://peter-adepoju.netlify.app)** – Showcasing my journey, skills, and best work.
 
 ---
@@ -53,7 +53,7 @@ I'm about to embark on my journey with **React**, eager to leverage it for even 
 ---
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=code4two&theme=tokyonight&border_radius=12)
+![GitHub Streak](https://streak-stats.demolab.com/?user=code4two&theme=tokyonight&border_radius=12)
 
 ## 🚀 Most Used Languages
 
